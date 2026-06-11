@@ -5,6 +5,8 @@ Repository containing labs from Agentic AI course
 |Files|Description|
 |--------------------------------|-----------|
 |[Prompt Engineering Lab](Lab1-PromptIngineering/) | Prompt engineering (tokenisation, ollama, Groq, OpenAI, JSON, images)|
+|[Agents with LangChain](Lab2-AgentsLangchain/) | Agents avec langchain (memory, tools, web search) Final project: Personal chef|
+
 
 ## General requirements
         Python: 3.12+
