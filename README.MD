@@ -7,6 +7,7 @@ Repository containing labs from Agentic AI course
 |[LAB 01 Prompt Engineering Lab](Lab1-PromptIngineering/) | Prompt engineering (tokenisation, ollama, Groq, OpenAI, JSON, images)|
 |[LAB 02 Agents with LangChain](Lab2-AgentsLangchain/) | Agents with langchain (memory, tools, web search) Final project: Personal chef|
 |[LAB 03 RAG](Lab3-RAG/)|RAG on pdf using huggingface and agent SQL using Chinnok DB|
+|[LAB 04 MCP](Lab4-MCP//)|Model Context Protocol : stdio, HTTP streaming|
 
 
 ## General requirements
