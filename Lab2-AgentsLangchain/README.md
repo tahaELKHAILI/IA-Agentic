@@ -1,4 +1,4 @@
-# TP Prompt Engineering
+# TP Agents using LangChain
 This project contain practice elements from the class covering the creation of agents
 ## Contenu
 * `Lab_Creating_Agent.py` Basic agent to answer questions
