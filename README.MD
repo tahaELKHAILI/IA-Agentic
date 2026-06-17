@@ -8,6 +8,7 @@ Repository containing labs from Agentic AI course
 |[LAB 02 Agents with LangChain](Lab2-AgentsLangchain/) | Agents with langchain (memory, tools, web search) Final project: Personal chef|
 |[LAB 03 RAG](Lab3-RAG/)|RAG on pdf using huggingface and agent SQL using Chinnok DB|
 |[LAB 04 MCP](Lab4-MCP//)|Model Context Protocol : stdio, HTTP streaming|
+|[LAB 05 LangGraph Studio](Lab5-LangraphStudio/)|Multi agents + LangGraph for visualisation|
 
 
 ## General requirements

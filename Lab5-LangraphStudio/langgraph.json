@@ -1,0 +1,10 @@
+{
+    "graphs": {
+        "agent_simple": "./02_AgentSimple.py:agent"
+    },
+    "env": "./env",
+    "source":{
+        "kind": "uv",
+        "root":"."
+    }
+}

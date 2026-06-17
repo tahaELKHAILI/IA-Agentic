@@ -1,2 +1,7 @@
 .env
-.venv
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+uv.lock
+.langgraph_api
