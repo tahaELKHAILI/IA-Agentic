@@ -1,6 +1,9 @@
 {
     "graphs": {
-        "agent_simple": "./02_AgentSimple.py:agent"
+        "agent_simple": "./02_AgentSimple.py:agent",
+        "subagent1": "./01_MultiAgent.py:subagent1",
+        "subagent2": "./01_MultiAgent.py:subagent2",
+        "main_agent": "./01_MultiAgent.py:main_agent"
     },
     "env": "./env",
     "source":{

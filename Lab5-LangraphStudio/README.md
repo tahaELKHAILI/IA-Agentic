@@ -137,5 +137,20 @@ All sub agents were created using `LangChain`
 ## Results
     I called a subagent to calculate the square root of 456, and they responded with the result: √456 ≈ 21.3542.
     I called a subagent to calculate the square of 12, and they responded with the result: 144.0.
+## Langgraph.json
+```json
+    {
+        "graphs": {
+            "subagent1": "./01_MultiAgent.py:subagent1",
+            "subagent2": "./01_MultiAgent.py:subagent2",
+            "main_agent": "./01_MultiAgent.py:main_agent"
+        },
+        "env": "./env",
+        "source":{
+            "kind": "uv",
+            "root":"."
+        }
+    }
+```
 **NOTE:** I had to add `give me the number` to my question as the model didn't print the result they received.
 It just confirmed receiving an answer.

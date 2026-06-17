@@ -9,6 +9,13 @@ Repository containing labs from Agentic AI course
 |[LAB 03 RAG](Lab3-RAG/)|RAG on pdf using huggingface and agent SQL using Chinnok DB|
 |[LAB 04 MCP](Lab4-MCP//)|Model Context Protocol : stdio, HTTP streaming|
 |[LAB 05 LangGraph Studio](Lab5-LangraphStudio/)|Multi agents + LangGraph for visualisation|
+|[LAB 06 Context and State](Lab6-ContexteEtEtat/)|Creating agents using context and state|
+|[LAB 07 Human in the loop](Lab7-HumanInTheLoop/)|Creating agents with interrupt|
+|[LAB 08 Workflow LangGraph](Lab8-WorkflowLangGraph/)|LangGraph workflows: simple graph, reducers, message state, conditional branches, loops|
+|[LAB 09 LangGraph Agent](Lab9-AgentLangGraph/)|LangGraph agent: tools, agent as a node, functional HITL (@entrypoint/@task), history and fork|
+|[TP - Personal Chef](TP-ChefPersonnel/)|Chef Agent: RAG + memory + web search + system prompt|
+
+
 
 
 ## General requirements
@@ -21,6 +28,6 @@ Every lab file contain different scripts with their own virtual environnement an
 
 ## Notes
 * Some of the labs require an active API key.
-* Each lab contains a description of `.env` file structure
+* Each lab contains a description of `.env` file structure when needed
 
 
