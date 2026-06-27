@@ -94,7 +94,7 @@ The split into pdf, txt or docx is just to keep the files organised
 
 ## Agent architecture
 ### Graph
-![graph](/graph/graph.png)
+![graph](./graph/graph.png)
 
 ### Tools
 * `retrieve` This tool use data from files provided and give you detailed explanation
@@ -128,10 +128,10 @@ Example of output from the [text file](/Evaluation/evaluation_results.txt):
 
 ## Screenshots
 ### CLI Interface
-![interface](/screenshots/CLI_Interface.png)
+![interface](./screenshots/CLI_Interface.png)
 
 ### Interraction
-![interraction](/screenshots/InterractionWith%20Agent.png)
+![interraction](./screenshots/InterractionWith%20Agent.png)
 ## NOTES
 * A running OLLAMA server is needed
 
