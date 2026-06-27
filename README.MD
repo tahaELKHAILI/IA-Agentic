@@ -14,6 +14,7 @@ Repository containing labs from Agentic AI course
 |[LAB 08 Workflow LangGraph](Lab8-WorkflowLangGraph/)|LangGraph workflows: simple graph, reducers, message state, conditional branches, loops|
 |[LAB 09 LangGraph Agent](Lab9-AgentLangGraph/)|LangGraph agent: tools, agent as a node, functional HITL (@entrypoint/@task), history and fork|
 |[TP - Personal Chef](TP-ChefPersonnel/)|Chef Agent: RAG + memory + web search + system prompt|
+|[Final Project](Evaluation_Final/) | Final project: application of the concepts from previous Labs|
 
 
 

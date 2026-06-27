@@ -1,5 +1,4 @@
 # This script manages the nodes
-
 from langchain_core.messages import SystemMessage
 from langchain_core.messages import ToolMessage
 from src.tools.tools import TOOL_MAP

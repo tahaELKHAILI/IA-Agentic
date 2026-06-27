@@ -1,4 +1,4 @@
-# This script manages the state
+# This script define the state
 
 from typing import TypedDict, Optional, List, Annotated
 from langchain_core.documents import Document

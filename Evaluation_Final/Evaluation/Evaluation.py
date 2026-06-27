@@ -38,6 +38,8 @@ config = {
     }
 }
 
+
+# Output save location
 BASE_DIR = Path(__file__).resolve().parent
 output_file = BASE_DIR / "evaluation_results.txt"
 

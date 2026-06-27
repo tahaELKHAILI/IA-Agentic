@@ -3,6 +3,8 @@ from src.graph.graph import graph
 
 if __name__ == "__main__":
 
+# Set the thread ID
+# If you are planning on running multiple instances at the same time make sure to change the id to get a new state
     config = {
         "configurable": {
             "thread_id": "session-1"
